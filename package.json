@@ -1,0 +1,22 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "scrap": "node ./scrap.js",
+    "start": "node ./server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.5.2",
+    "puppeteer": "^20.9.0",
+    "puppeteer-core": "^20.9.0",
+    "sequelize": "^6.32.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.1"
+  }
+}
