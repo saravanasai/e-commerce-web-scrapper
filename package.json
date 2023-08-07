@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "scrap": "node ./scrap.js",
+    "scrap": "node ./scraper/index.js",
     "start": "node ./server.js"
   },
   "keywords": [],
